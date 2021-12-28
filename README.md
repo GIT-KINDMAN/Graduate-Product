@@ -1,2 +1,1 @@
-# KINDMAN
-Graduation products
+# Graduation products
