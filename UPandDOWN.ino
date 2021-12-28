@@ -141,3 +141,7 @@ client.println("}");
    Serial.println("");
  }// if문 괄호 닫기
  }//프로그램 끝
+
+// references
+// https://blog.daum.net/ejleep1/345
+// https://blog.daum.net/rockjjy99/2629
